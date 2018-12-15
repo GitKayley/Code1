@@ -1,4 +1,4 @@
-//Ball myBall;
+
 //PImage backImg =loadImage("https://i.imgur.com/lMLAhJv.png");
 PImage startImg=loadImage("https://i.imgur.com/PmWwdVu.png");
 PImage cowImg =loadImage("https://image.spreadshirtmedia.com/image-server/v1/mp/designs/1016918884,width=178,height=178/cute-cow-cartoon-design.png");
